@@ -1,0 +1,7 @@
+// 구글 폰트 불러오기 예시 (Noto Sans KR)
+@import url('https://googleapis.com');
+
+// 전체 폰트 적용
+body, .text-gamma, p, li, a {
+  font-family: 'Noto Sans KR', sans-serif !important;
+}
