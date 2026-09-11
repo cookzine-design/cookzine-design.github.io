@@ -2,6 +2,7 @@ title: cookzine-design
 description: Hanger ROOM
 remote_theme: just-the-docs/just-the-docs
 url: https://cookzine-design.github.io
+color_scheme: bw
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
