@@ -1,6 +1,6 @@
 ---
 title: Inbound
-layout: home
+layout: default
 has_children: true
 parent: Home
 ---
